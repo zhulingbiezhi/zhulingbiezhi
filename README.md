@@ -3,13 +3,16 @@
 
 ---
 
- ████████████████████▁▁▁▁▁▁▁▁▁▁  68.94 %
+年度余额    ████████████████████▁▁▁▁▁▁▁▁▁▁   68.94 %
 
 ---
 
 ![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
 ![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
+
 ![Golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
+![C++](https://img.shields.io/badge/-C++-8fcfd1?style=plastic&logo=C++)
+
 ---
 
 - 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a 【**golang backend engineer**】.
@@ -24,4 +27,4 @@
 
 ---
 
-⏰ Updated on Wed, 09 Sep 2020 07:23:07 GMT
+⏰ Updated on Wed, 09 Sep 2020 07:27:11 GMT
