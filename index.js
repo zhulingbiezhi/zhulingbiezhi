@@ -23,8 +23,7 @@ const readme = `
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
-
+![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
 ![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
 
 ---
@@ -35,11 +34,9 @@ const readme = `
 
 - 💬 Ask me about **Go, C++**
 
-- ⚡ Fun fact: Big Fan of the :zap: emoji
-
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=zhulingbiezhi&theme=dark)
 
 ---
 
