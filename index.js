@@ -19,20 +19,22 @@ const readme = `
 
 ---
 
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+⏳ Year progress
+
+${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ---
 
 ![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
 ![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
-![golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
+![Golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
 ---
 
-- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a **golang backend engineer**.
+- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a 【**golang backend engineer**】.
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning 【**Go**】
 
-- 💬 Ask me about **Go, C++**
+- 💬 Ask me about 【**Go, C++**】
 
 ---
 
