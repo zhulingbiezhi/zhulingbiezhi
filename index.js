@@ -15,12 +15,13 @@ function generateProgressBar() {
 }
 
 const readme = `
-<h2 align="center">👋 Hello! I'm Huhai.</h2>
-<p align="center">
-  <a href="https://www.ququ1002.com">Blog</a>
-</p>
-
-
+<h2 align="center">👋 Hello! I'm Qu Qu.</h2>
+---
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+---
+![](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
+![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
+---
 - 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a **golang backend engineer**.
 - 🌱 I’m currently learning **Go**
 - 💬 Ask me about **Go, C++**
@@ -28,7 +29,7 @@ const readme = `
 ---
 ![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
 ---
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
----
+
+
 ⏰ Updated on ${new Date().toUTCString()}`
 console.log(readme)
