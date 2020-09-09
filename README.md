@@ -3,20 +3,22 @@
 
 ---
 
-⏳ Year progress { ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.93 %
+⏳ Year progress
+
+{ ████████████████████▁▁▁▁▁▁▁▁▁▁ } 68.94 %
 
 ---
 
 ![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
 ![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
-![golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
+![Golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
 ---
 
-- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a **golang backend engineer**.
+- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a 【**golang backend engineer**】.
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning 【**Go**】
 
-- 💬 Ask me about **Go, C++**
+- 💬 Ask me about 【**Go, C++**】
 
 ---
 
@@ -24,4 +26,4 @@
 
 ---
 
-⏰ Updated on Wed, 09 Sep 2020 07:14:03 GMT
+⏰ Updated on Wed, 09 Sep 2020 07:18:43 GMT
