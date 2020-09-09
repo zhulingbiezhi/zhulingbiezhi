@@ -11,15 +11,13 @@ function generateProgressBar() {
         .fill('▁')
         .map((value, index) => index < passedProgressBarIndex ? '█' : value)
         .join('')
-    return `{ ${progressBar} }`
+    return ` ${progressBar} `
 }
 
 const readme = `
-<h2 align="center">👋 Hello! I'm Qu Qu.</h2>
+<h2 align="center">👋 Hello! I'm 去去.</h2>
 
 ---
-
-⏳ Year progress
 
 ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
