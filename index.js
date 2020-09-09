@@ -14,8 +14,20 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
-### Hi there 👋
+const readme = `
+<h2 align="center">👋 Hello! I'm Huhai.</h2>
+<p align="center">
+  <a href="https://www.ququ1002.com">Blog</a>
+</p>
+
+
+- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a **golang backend engineer**.
+- 🌱 I’m currently learning **Go**
+- 💬 Ask me about **Go, C++**
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+---
+![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+---
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
 ⏰ Updated on ${new Date().toUTCString()}`
