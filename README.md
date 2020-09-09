@@ -7,8 +7,7 @@
 
 ---
 
-![](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
-
+![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
 ![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
 
 ---
@@ -19,12 +18,10 @@
 
 - 💬 Ask me about **Go, C++**
 
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+---
+
+![](https://github-readme-stats.vercel.app/api?username=zhulingbiezhi&theme=dark)
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
-
----
-
-⏰ Updated on Wed, 09 Sep 2020 06:52:41 GMT
+⏰ Updated on Wed, 09 Sep 2020 06:58:56 GMT
