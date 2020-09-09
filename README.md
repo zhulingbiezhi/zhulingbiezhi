@@ -9,7 +9,7 @@
 
 ![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
 ![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
-
+![golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
 ---
 
 - 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a **golang backend engineer**.
@@ -24,4 +24,4 @@
 
 ---
 
-⏰ Updated on Wed, 09 Sep 2020 06:58:56 GMT
+⏰ Updated on Wed, 09 Sep 2020 07:14:03 GMT
