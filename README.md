@@ -3,7 +3,7 @@
 
 ---
 
-年度余额    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.84 %
+年度余额    ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.87 %
 
 ---
 
@@ -15,11 +15,11 @@
 
 ---
 
-- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a 【**golang backend engineer**】.
+- 🔭 I’m currently working at [Hellotalk](https://www.hellotalk.com) as a 【**golang backend engineer**】.
 
 - 🌱 I’m currently learning 【**Go**】
 
-- 💬 Ask me about 【**Go, C++**】
+- 💬 Ask me about 【**Go**】
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-⏰ Updated on Mon, 29 Mar 2021 00:25:43 GMT
+⏰ Updated on Mon, 29 Mar 2021 02:39:27 GMT
