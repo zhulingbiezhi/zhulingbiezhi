@@ -31,11 +31,11 @@ const readme = `
 
 ---
 
-- 🔭 I’m currently working at [KLOOK](https://www.klook.com) as a 【**golang backend engineer**】.
+- 🔭 I’m currently working at [Hellotalk](https://www.hellotalk.com) as a 【**golang backend engineer**】.
 
 - 🌱 I’m currently learning 【**Go**】
 
-- 💬 Ask me about 【**Go, C++**】
+- 💬 Ask me about 【**Go**】
 
 ---
 
