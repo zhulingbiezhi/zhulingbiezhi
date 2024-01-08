@@ -1,30 +1,10 @@
+<!-- Copy-paste in your Readme.md file -->
 
-<h2 align="center">👋 Hello! I'm 去去.</h2>
+<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=293987894&limit=30" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=293987894&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
+    <img alt="Active Contributors of zhulingbiezhi/zhulingbiezhi - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=293987894&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
+  </picture>
+</a>
 
----
-
-年度余额    ▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   1.92 %
-
----
-
-![GitHub visiters](https://visitor-badge.glitch.me/badge?page_id=zhulingbiezhi.zhulingbiezhi)
-![GitHub followers](https://img.shields.io/github/followers/zhulingbiezhi?label=Follow&style=social)
-
-![Golang](https://img.shields.io/badge/-Golang-8fcfd1?style=plastic&logo=Golang)
-![C++](https://img.shields.io/badge/-C++-8fcfd1?style=plastic&logo=C++)
-
----
-
-- 🔭 I’m currently working at [Hellotalk](https://www.hellotalk.com) as a 【**golang backend engineer**】.
-
-- 🌱 I’m currently learning 【**Go**】
-
-- 💬 Ask me about 【**Go**】
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=zhulingbiezhi&theme=dark)
-
----
-
-⏰ Updated on Mon, 08 Jan 2024 00:27:34 GMT
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
